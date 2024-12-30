@@ -1,0 +1,10 @@
+node_modules
+.env
+classify
+/uploads
+.dockerignore
+Dockerfile
+geoLite
+media
+config/firebase-admin.json
+config/firebase-config.js
